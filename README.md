@@ -5,7 +5,8 @@
 - *ДевШахта* ([ссылка](https://soundcloud.com/devschacht), [rss](https://feeds.soundcloud.com/users/soundcloud:users:299701886/sounds.rss)) Ребята пишут [блог](https://medium.com/devschacht) с переводами хороших статей по FE. В основном говорят про JS, Node.js, V8. Выходит примерно раз в две недели.
 - *RadioJS*  ([ссылка](https://radiojs.ru/), [rss](http://radiojs.ru/feed/podcast/)) Обсуждают темы вокруг JS от Webpack до школ FE. Приглашают интересных гостей. Выходит редко.
 - *Frontflip* ([ссылка](http://frontflip.me/), [rss](http://frontflip.me/podcast.xml)) Говорят про JS, фреймворки и жизнь фронтэндера. Последний выпуск 25.08.2016.
-- *Frontend Weekend* ([ссылка](https://soundcloud.com/frontend-weekend), [rss](http://feeds.soundcloud.com/users/soundcloud:users:306455261/sounds.rss)) Подкаст о конференциях и людях в FE. Про технологии почти не говорят. Выходят раз в неделю. 
+- *Frontend Weekend* ([ссылка](https://soundcloud.com/frontend-weekend), [rss](http://feeds.soundcloud.com/users/soundcloud:users:306455261/sounds.rss)) Подкаст о конференциях и людях в FE. Про технологии почти не говорят. Выходят раз в неделю.
+- *Фронттерки* ([ссылка](https://fronterki.fireside.fm/), [rss](https://fronterki.fireside.fm/rss)) Пока не слушал.
 ## Программирование и около ИТ
 - Радио-Т
 - The Art of Propgramming
