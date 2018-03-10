@@ -14,18 +14,19 @@
 - *Радио-Т* ([ссылка](https://radio-t.com/), [rss](http://feeds.rucast.net/radio-t)) Самый старый около-ИТ подкаст в рунете. Обсуждают новости интересующие ведущих новости. От выхода новой версии Docker до о цвета новых наушников от Apple. 
 - *The Art of Propgramming* ([ссылка](https://theartofprogramming.podbean.com/), [rss](http://theartofprogramming.podbean.com/feed/)) [Голодный](https://twitter.com/golodnyj) из города Иркутска рассказывает и обсуждает темы связанные с разработкой на Java, управление командой, личное развитие.
 - *«Суровый веб» от uWebDesign*  ([ссылка](https://uwebdesign.ru/), [rss](http://feeds.rucast.net/radio-t)). Ребята из Челябинска, не стесняясь в выражениях, вещают на темы дизайна и верстки, разработки, научпопопа, архитектуры и т.д.  
-- Разбор полетов
+- Разбор полетов ([ссылка](), [rss]())
 - DevZen
 - *Рунетология* ([ссылка](http://spiridonov.ru/post/category/runetologia), [rss](http://spiridonov.ru/runetologia/rss_new/)) Максим Спиридонов берет интервью у ключевых фигур российского интернета. Обсуждают маркетинг, управление, законодательство. Выходит раз в две недели.   
-- CTOcast
+- CTOcast ([ссылка](), [rss]())
+
 ## История
 - *Цена победы* ([ссылка](https://echo.msk.ru/programs/victory/), [rss](https://echo.msk.ru/programs/victory/rss-audio.xml)) Неюбилейные интервью об Великой Отечественной Войне.
 - Все так ([ссылка](https://echo.msk.ru/programs/vsetak/), [rss](https://echo.msk.ru/programs/vsetak/rss-audio.xml)) Красочные рассказы о видных фигурах прошлого.
-- Виват, история ([ссылка](), [rss]())
-- Уроки истории
+- Виват, история ([ссылка](https://vivat.podster.fm/), [rss](https://podster.fm/rss.xml?pid=778)) Историк Сергей Виватенко рассказывает о разных страница х отечественной истории.
+- Уроки истории ([ссылка](https://radiovesti.ru/brand/60935/), [rss](https://radiovesti.ru/rss/brand/id/60935/)) Короткие исторические факты об истории России, связанные с текущей датой.
 - *Именем революции* ([ссылка](https://radiomayak.ru/podcasts/podcast/id/2201/), [rss](https://radiomayak.ru/podcasts/rss/podcast/2201/type/audio/)) Часть утреннего шоу Стиллавина на Маяке. Ведущие вместе с профессиональными историками говорят о русской революции. Цикл начинается с эпохи Александра II.
-## Просто интересные 
-- Америчка
-- *Брендятина* ([ссылка](https://radiomayak.ru/podcasts/podcast/id/45/), [rss](https://radiomayak.ru/podcasts/rss/podcast/45/brand/58219/type/audio/)) Вот уже больше 10 лет Рустам Вахидов рассказывает историю известных брендов утреннем шоу на Маяке.
-- Как заработать миллион?
 
+## Просто интересные 
+- Америчка ([ссылка](https://americhka.us/), [rss](view-source:http://feeds.feedburner.com/americhka/oBlg)) Программист, предприниматель, тренер давно переехавший в США рассказывает о волнующих его темах. 
+- *Брендятина* ([ссылка](https://radiomayak.ru/podcasts/podcast/id/45/), [rss](https://radiomayak.ru/podcasts/rss/podcast/45/brand/58219/type/audio/)) Вот уже больше 10 лет Рустам Вахидов рассказывает историю известных брендов утреннем шоу на Маяке.
+- Как заработать миллион? ([ссылка](https://radiomayak.ru/podcasts/podcast/id/582/), [rss](https://radiomayak.ru/podcasts/rss/podcast/582/type/audio/)) Еще один подкаст из утреннего шоу Стиллавина. Гости программы - предприниматели, организовавшие необычный бизнес. 
