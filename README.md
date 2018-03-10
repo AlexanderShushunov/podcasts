@@ -24,7 +24,7 @@
 - Все так ([ссылка](https://echo.msk.ru/programs/vsetak/), [rss](https://echo.msk.ru/programs/vsetak/rss-audio.xml)) Красочные рассказы о видных фигурах прошлого.
 - Виват, история ([ссылка](https://vivat.podster.fm/), [rss](https://podster.fm/rss.xml?pid=778)) Историк Сергей Виватенко рассказывает о разных страница х отечественной истории.
 - Уроки истории ([ссылка](https://radiovesti.ru/brand/60935/), [rss](https://radiovesti.ru/rss/brand/id/60935/ (!))) Короткие исторические факты об истории России, связанные с текущей датой.
-- *Именем революции* ([ссылка](https://radiomayak.ru/podcasts/podcast/id/2201/), [rss](https://radiomayak.ru/podcasts/rss/podcast/2201/type/audio/ (!))) Часть утреннего шоу Стиллавина на Маяке. Ведущие вместе с профессиональными историками говорят о русской революции. Цикл начинается с эпохи Александра II.
+- *Именем революции* ([ссылка](https://radiomayak.ru/podcasts/podcast/id/2201/), [rss (!)](https://radiomayak.ru/podcasts/rss/podcast/2201/type/audio/)) Часть утреннего шоу Стиллавина на Маяке. Ведущие вместе с профессиональными историками говорят о русской революции. Цикл начинается с эпохи Александра II.
 
 ## Просто интересные 
 - Америчка ([ссылка](https://americhka.us/), [rss](http://feeds.feedburner.com/americhka/oBlg)) Программист, предприниматель, тренер давно переехавший в США рассказывает о волнующих его темах. 
