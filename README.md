@@ -27,6 +27,6 @@
 - *Именем революции* ([ссылка](https://radiomayak.ru/podcasts/podcast/id/2201/), [rss](https://radiomayak.ru/podcasts/rss/podcast/2201/type/audio/)) Часть утреннего шоу Стиллавина на Маяке. Ведущие вместе с профессиональными историками говорят о русской революции. Цикл начинается с эпохи Александра II.
 
 ## Просто интересные 
-- Америчка ([ссылка](https://americhka.us/), [rss](view-source:http://feeds.feedburner.com/americhka/oBlg)) Программист, предприниматель, тренер давно переехавший в США рассказывает о волнующих его темах. 
+- Америчка ([ссылка](https://americhka.us/), [rss](http://feeds.feedburner.com/americhka/oBlg)) Программист, предприниматель, тренер давно переехавший в США рассказывает о волнующих его темах. 
 - *Брендятина* ([ссылка](https://radiomayak.ru/podcasts/podcast/id/45/), [rss](https://radiomayak.ru/podcasts/rss/podcast/45/brand/58219/type/audio/)) Вот уже больше 10 лет Рустам Вахидов рассказывает историю известных брендов утреннем шоу на Маяке.
 - Как заработать миллион? ([ссылка](https://radiomayak.ru/podcasts/podcast/id/582/), [rss](https://radiomayak.ru/podcasts/rss/podcast/582/type/audio/)) Еще один подкаст из утреннего шоу Стиллавина. Гости программы - предприниматели, организовавшие необычный бизнес. 
